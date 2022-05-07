@@ -192,8 +192,3 @@ def run_test_harness():
  
 # entry point, run the test harness
 run_test_harness()
-
-# Commented out IPython magic to ensure Python compatibility.
-!git clone -l -s https://gitlab.charlesbordet.com/charles/deeplearning.git cloned-repo
-# %cd cloned-repo
-!ls
